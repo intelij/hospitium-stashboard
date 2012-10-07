@@ -15,7 +15,8 @@
     {% for service in services %}
     <tr id="{{ service.slug}}">
       <td>
-	<a href="{{ service.url }}">{{ service.name }}</a>
+	<a href="{{ service.url }}">{{ service.name }}</a><br />
+	<a href="https://travis-ci.org/#!/ninetwentyfour/imago"><img style="max-width:100%;vertical-align: middle;" alt="Build Status" src="https://secure.travis-ci.org/ninetwentyfour/imago.png"></a>
       </td>
       <td class="status highlight">
 	<a href="{{ service.url }}">
