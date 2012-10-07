@@ -2,7 +2,7 @@
 
 Used for [status.imago.in](http://status.imago.in)
 
-[![Build Status](https://secure.travis-ci.org/twilio/stashboard.png?branch=master)](http://travis-ci.org/twilio/stashboard)
+[![Build Status](https://secure.travis-ci.org/ninetwentyfour/stashboard.png)](http://travis-ci.org/ninetwentyfour/stashboard)
 
 Stashboard was written by Twilio to provide status information on our phone, SMS, and Communication APIs. We open sourced the code to provide a generic status page designed to be customized by any hosted services company to provide customers up-to-date status information. The code can be downloaded, customized with your logo, and run on any Google App Engine account.
 
