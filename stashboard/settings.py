@@ -2,10 +2,10 @@ import os
 
 DEBUG = False
 
-SITE_NAME = "Imago"
+SITE_NAME = "Hospitium"
 SITE_AUTHOR = "Colonel Mustache"
-SITE_URL = "http://status.imago.in"
-REPORT_URL = "mailto:contact@travisberry.com"
+SITE_URL = "http://status.hospitium.co"
+REPORT_URL = "mailto:contact@hospitium.co"
 
 # Twitter update settings
 TWITTER_CONSUMER_KEY = ''
